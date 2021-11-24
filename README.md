@@ -2,4 +2,5 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jvn4dev&color=dark)](https://velog.io/@jvn4dev) 
 
-평생 개발하기위해 기록합니다📚
+
+![Chung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvn4dev&show_icons=true&theme=vue)
