@@ -2,10 +2,13 @@
 **Strong & Experienced**
 <div>
   <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=fff"/></span>
+  <span><img src="https://img.shields.io/badge/Nextjs-000?style=flat-square&logo=next.js&logoColor=fff"/></span>
+  <span><img src="https://img.shields.io/badge/TypeScript-0055FF?style=flat-square&logo=typescript&logoColor=fff"/></span>
+  <span><img src="https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=fff"/></span>
   <span><img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=fff"/></span>
-  <span><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=fff"/></span>
-  <span><img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=postcss&logoColor=fff"/></span>
-  <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=fff"/></span>
+  <span><img src="https://img.shields.io/badge/Mobx-F24E1E?style=flat-square&logo=mobx&logoColor=fff"/></span>
+  <span><img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=fff"/></span>
+  
  </div>
  <br />
  <div>
@@ -18,9 +21,7 @@
  
 **Tools**
 <div>
-  <span><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=fff"/></span>
   <span><img src="https://img.shields.io/badge/notion-000?style=flat-square&logo=Notion&logoColor=fff"/></span>
-  <span><img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=adobe photoshop&logoColor=fff"/></span>
   <span><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=fff"/></span>
  </div>
  <br />
