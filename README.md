@@ -1,4 +1,4 @@
-### 🦾 Skills
+<!-- ### 🦾 Skills
 **Strong & Experienced**
 <div>
   <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=fff"/></span>
@@ -27,5 +27,6 @@
  <br />
 
 ### 📝 Recent Blog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jvn4dev&color=dark)](https://velog.io/@jvn4dev) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jvn4dev&color=dark)](https://velog.io/@jvn4dev)  -->
+# HI there 👽
 
