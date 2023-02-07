@@ -28,5 +28,5 @@
 
 ### 📝 Recent Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jvn4dev&color=dark)](https://velog.io/@jvn4dev)  -->
-# HI there 👽
+# Hi there 👽
 
