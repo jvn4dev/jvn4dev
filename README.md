@@ -24,9 +24,9 @@
   <span><img src="https://img.shields.io/badge/notion-000?style=flat-square&logo=Notion&logoColor=fff"/></span>
   <span><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=fff"/></span>
  </div>
- <br />
+ <br /> --->
 
 ### 📝 Recent Blog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jvn4dev&color=dark)](https://velog.io/@jvn4dev)  -->
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jvn4dev&color=dark)](https://velog.io/@jvn4dev)
 # Hi there 👽
 
