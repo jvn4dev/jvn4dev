@@ -28,9 +28,10 @@
 
  # Hi there 👽
 
+<!--
 ### 📝 최근 블로그 포스트
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jvn4dev&color=dark)](https://velog.io/@jvn4dev)
 
 
 ### 🔨 블로그 이사 중
-이사 중인 블로그 링크: [jvn4blog](https://jvn4log.vercel.app/)
+이사 중인 블로그 링크: [jvn4blog](https://jvn4log.vercel.app/) -->
