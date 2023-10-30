@@ -26,8 +26,12 @@
  </div>
  <br /> --->
 
- # 안녕하세요 👽
- ### 메타버스 플랫폼 ZEP에서 프론트엔드 개발을 하고 있습니다. 😃
+ ## Hi there 👽
+ #### Working in ZEP as a Frontend Developer.
+
+<span><img src="https://img.shields.io/badge/Nextjs-000?style=flat-square&logo=next.js&logoColor=fff"/></span>
+<span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=fff"/></span>
+<span><img src="https://img.shields.io/badge/TypeScript-0055FF?style=flat-square&logo=typescript&logoColor=fff"/></span>
 
 <!--
 ### 📝 최근 블로그 포스트
