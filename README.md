@@ -33,6 +33,14 @@
 <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=fff"/></span>
 <span><img src="https://img.shields.io/badge/TypeScript-0055FF?style=flat-square&logo=typescript&logoColor=fff"/></span>
 
+## 🎶 Favorite Song Lyrics</br>
+"Though your dreams be tossed and blown"</br>
+"Walk on, Walk on"</br>
+"With hope in your heart"</br>
+"And you'll never walk alone"</br>
+"You'll never walk alone"</br>
+
+
 <!--
 ### 📝 최근 블로그 포스트
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jvn4dev&color=dark)](https://velog.io/@jvn4dev)
