@@ -29,9 +29,11 @@
  ## Hi there 👽
  #### Working in ZEP as a Frontend Developer.
 
+#### I Love these things
 <span><img src="https://img.shields.io/badge/Nextjs-000?style=flat-square&logo=next.js&logoColor=fff"/></span>
 <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=fff"/></span>
 <span><img src="https://img.shields.io/badge/TypeScript-0055FF?style=flat-square&logo=typescript&logoColor=fff"/></span>
+<span><img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff"/></span>
 
 ## 🎶 Favorite Song Lyrics</br>
 "Though your dreams be tossed and blown"</br>
