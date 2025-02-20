@@ -28,20 +28,19 @@
 
  ## Hi there 👽
  #### Working in ZEP as a Frontend Developer.
+ ##### I’m a developer who’s all about creating products that truly matter—to both the user and the company.
+ ##### I believe in delivering value fast, so users can experience and benefit from our product as soon as possible.
+ ##### That early feedback is what drives real improvements and helps the product grow in value.
+ ##### By staying focused on solving the right problems and constantly refining the user experience, I aim to build solutions that boost company success while meeting users’ core needs.
+ ##### And for me, faster is always better, as it lets us learn quickly and keep improving.
 
+<!--### 
 #### I Love these things
 <span><img src="https://img.shields.io/badge/Nextjs-000?style=flat-square&logo=next.js&logoColor=fff"/></span>
 <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=fff"/></span>
 <span><img src="https://img.shields.io/badge/TypeScript-0055FF?style=flat-square&logo=typescript&logoColor=fff"/></span>
 <span><img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff"/></span>
-
-## 🎶 Favorite Song Lyrics</br>
-"Though your dreams be tossed and blown"</br>
-"Walk on, Walk on"</br>
-"With hope in your heart"</br>
-"And you'll never walk alone"</br>
-"You'll never walk alone"</br>
-
+--->
 
 <!--
 ### 📝 최근 블로그 포스트
