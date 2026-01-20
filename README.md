@@ -27,12 +27,6 @@
  <br /> --->
 
  ## Hi there 👽
- #### Working in ZEP as a Frontend Developer.
- ##### I’m a developer who’s all about creating products that truly matter—to both the user and the company.
- ##### I believe in delivering value fast, so users can experience and benefit from our product as soon as possible.
- ##### That early feedback is what drives real improvements and helps the product grow in value.
- ##### By staying focused on solving the right problems and constantly refining the user experience, I aim to build solutions that boost company success while meeting users’ core needs.
- ##### And for me, faster is always better, as it lets us learn quickly and keep improving.
 
 <!--### 
 #### I Love these things
